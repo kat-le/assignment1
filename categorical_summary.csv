@@ -1,0 +1,4 @@
+column,n_levels,levels_top3,majority_class_%
+sex,2,"male (676, 50.5%); female (662, 49.5%)",50.5%
+smoker,2,"no (1064, 79.5%); yes (274, 20.5%)",79.5%
+region,4,"southeast (364, 27.2%); southwest (325, 24.3%); northwest (325, 24.3%)",27.2%

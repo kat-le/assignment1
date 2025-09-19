@@ -1,0 +1,8 @@
+column,role,dtype,non_null,missing,n_unique,example_values
+age,feature,int64,1338,0,47,"19, 18, 28"
+sex,feature,object,1338,0,2,"female, male"
+bmi,feature,float64,1338,0,548,"27.9, 33.77, 33.0"
+children,feature,int64,1338,0,6,"0, 1, 3"
+smoker,feature,object,1338,0,2,"yes, no"
+region,feature,object,1338,0,4,"southwest, southeast, northwest"
+charges,target,float64,1338,0,1337,"16884.924, 1725.5523, 4449.462"
