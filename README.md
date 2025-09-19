@@ -5,7 +5,7 @@ Artifacts from ChatGPT session
 CRISP‑DM — Chunk 1
 Business Understanding & Initial Data Understanding
 
--[Schema summary](CSV[https://github.com/kat-le/chatgpt-data-science/blob/main/insurance_schema.csv)
+-[Schema summary CSV](https://github.com/kat-le/chatgpt-data-science/blob/main/insurance_schema.csv)
 
 -[Numeric stats CSV](https://github.com/kat-le/chatgpt-data-science/blob/main/numeric_stats.csv)
 
