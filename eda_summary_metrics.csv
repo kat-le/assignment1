@@ -1,0 +1,6 @@
+metric,value
+dup_removed,1.0
+charges_iqr_outliers,139.0
+bmi_iqr_outliers,9.0
+charges_q99,48537.79687800001
+bmi_q99,46.411200000000036
