@@ -28,5 +28,6 @@ Deeper EDA & Cleaning (bivariate relationships, interaction probes, light outlie
 
 - [IQR outliers (BMI)](https://github.com/kat-le/chatgpt-data-science/blob/main/outliers_bmi_iqr.csv)
 
-- [Summary metrics](https://github.com/kat-le/chatgpt-data-science/blob/main/eda_summary_metrics.csv
-)
+- [Summary metrics](https://github.com/kat-le/chatgpt-data-science/blob/main/eda_summary_metrics.csv)
+
+- [Data vizualization charts](https://github.com/kat-le/chatgpt-data-science/blob/main/insurance_eda_charts.pdf)
